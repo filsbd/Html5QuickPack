@@ -1,0 +1,14 @@
+Basic HTML5 files:
+https://html5boilerplate.
+
+fonts:
+http://fontawesome.io/
+
+Mobile Menu:
+http://slicknav.com/
+
+Responsive Video:
+http://fitvidsjs.com/
+
+Bootstrap Download link:
+https://getbootstrap.com/
